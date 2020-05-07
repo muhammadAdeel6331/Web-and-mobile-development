@@ -1,0 +1,240 @@
+*{
+    margin:0px;
+}
+.top{
+    width: 100%;
+    height: 48px;
+    font-size: small;
+    background-color: #2b6fcc;
+    
+}
+.page{
+    background-color:#f2faf2 ;
+    padding-bottom: 50px;
+}
+.toptxt{
+    color: white;
+    margin: auto 50% auto 18%;
+    font-size: larger;
+}
+.menu{
+    width: 90%;
+    height: 50px; 
+    background-color: #f2faf2;
+    padding-top: 10px;  
+    
+}
+li{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center ;
+    padding: 6px;
+    border-radius: 18px;
+    padding-left: 25px;
+    padding-right: 10px;
+    
+}
+li:hover{
+    background-color: #2b6fcc ;
+}
+ul{
+    float: right;
+    color: gray;
+}
+.bg{
+    background-color: #2b6fcc;
+    color: white;
+    padding-left: 10px;
+}
+
+.logos{
+    margin: auto;
+    text-align: left;
+}
+
+.btoncolor{
+    color: gray;
+    padding: 3px;
+    border-radius: 3px;
+}
+.btoncolor4{
+    visibility: hidden;
+}
+.line{
+    width: 90%;
+    height: 28px;
+    font-size: small;
+    background-color: #2b6fcc;
+    margin: auto;
+    color: white;
+    padding-top: 6px;
+    
+}
+.date{
+    color: chartreuse; 
+    
+}
+.link{
+    color: darkblue;
+    text-decoration: none;
+}
+.intro{
+    color: #2b6fcc;
+}
+.duction{
+    color: #1e6118;
+}
+.para{
+    width: 950px;
+    text-align:  justify;
+    margin: auto;
+    font-size: large;
+    word-spacing: 3px;
+    font-family: serif;
+    color: #9c9986;
+}
+.introduction{
+    text-align: center;
+    padding-top: 50px;
+    clear: both;
+}
+.montlyfiguers{
+    width: 100%;
+    padding-top: 90px;
+    padding-right: 10px;
+
+}
+.box{
+    
+    text-align: center;
+    padding-top: 50px;
+    padding-top: 30px;
+}
+.shadow{
+    box-shadow: 0 5px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.b{
+    width:55% ;
+    padding: 9px;
+    padding-left: 85px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    float: left;
+    
+}
+.missions{
+    color:#2b6fcc ;
+    font-size: 27px;
+    padding-left: 88px;
+    padding-top: 19px;
+
+}
+.u{  
+    padding : px;
+    text-align: left;
+    margin: auto;
+}
+.line1{
+    height: 10px;
+    width: 80px;
+    position: relative;
+    top: 20px;
+    right:  490px;
+    background-color:white;
+}
+
+.line2{
+    height: 10px;
+    width: 80px;
+    position: relative;
+    top: 20px;
+    right:  220px;
+    background-color:white;
+}
+.float{
+    float: left;
+    width: 30%;
+    height: 30%;
+    padding-top:10px;
+}
+.missions1{
+    color:#2b6fcc ;
+    font-size: 29px;
+    padding-bottom: 29px;
+    margin: auto;
+    
+}
+.bord{
+    color: #9c9986  ;
+    border: none;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+.ima{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 180px;
+}
+.botom{
+    height: 320px;
+    background-color: #26262b;
+}
+.icon{
+    position: relative;
+    top: 10px;
+}
+
+.icon3{
+    position: relative;
+    top: 8px;
+}
+.size{
+    font-size: 15px;
+}
+.connect{
+    width: 300px;
+    height: 250px;
+    background-color: teal;
+    padding-top: 50px;
+    color: white;
+    padding-left: 20px;
+}
+.end{
+    background-color: #2b6fcc; 
+    color: white;
+    font-size: small;
+    padding: 10px;
+    padding-left: 120px;
+
+}
+
+.css1, .css2, .css3{
+
+    float:left; 
+
+}
+
+.css2{
+    width: 300px;
+    height: 250px;
+    color: white;
+    font-size: 18px;
+    padding-top: 50px;
+    padding-left: 0px;
+}
+.css1{
+    color: #6e7571;
+    width: 35%;
+    padding-left:130px ;
+    padding-top: 70px;
+}
+.css3{
+    width: 300px;
+    height: 250px;
+    color: white;
+    font-size: 18px;
+    padding-top: 50px;
+    padding-left: 10px;
+
+}
